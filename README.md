@@ -1,4 +1,4 @@
-# Crop image with OpenCV
+# Crop Detection with OpenCV
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 This project is an experimental use of OpenCV Library to crop an image. The script will apply Canny on the original image to find the object's edges, and then will crop the biggest area found.
