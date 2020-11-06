@@ -9,8 +9,8 @@ This project is an experimental use of OpenCV Library to crop an image. The scri
 
 ### Installation
 ```
-git clone git@github.com:SalvoCozzubo/opencv-crop.git
-cd opencv-crop
+git clone this project
+cd crop-detections
 ```
 
 ### Use
